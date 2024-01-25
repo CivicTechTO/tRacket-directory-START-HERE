@@ -21,7 +21,7 @@ Keep reading below to learn more about the project.
 Coming soon
 
 ## How to contribute
-This is a volunteer driven project and contribution from everyone and any skill sets and experiences are welcome. 
+This is a volunteer driven project and contribution from everyone with any skill set and experiences are welcome. 
 
 There are a few ways to connect with us and help:
 1. Attend a [Civic Tech Toronto hacknight](https://civictech.ca/) and join our project.
