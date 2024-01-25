@@ -1,7 +1,9 @@
 # About Project Noise Meter
 
 > Are you curious about the health impact of the environmental noise in Toronto?
+> 
 > Are you interested in measuring the environmental noise in Toronto?
+> 
 > Is the environmental noise in Toronto a public health concern?
 
 Project Noise Meter is building low cost IoT devices to measure in real-time the ambient environmental noise in our neigbourhoods. A data store and a monitoring dashboard are being developed to collect and visualize the noise data. The project is under active development by a group of Civic Tech Toronto volunteers.
