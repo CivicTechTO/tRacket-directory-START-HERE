@@ -18,8 +18,6 @@ Keep reading below to learn more about the project.
 - Mobile App (coming soon)
 - Website (coming soon)
 
-## Project Roadmap
-Coming soon
 
 ## How to contribute
 This is a volunteer driven project and contribution from everyone with any skill set and experiences are welcome. 
@@ -50,8 +48,9 @@ sequenceDiagram
 ### How do I get support for my device?
 ### What is the environmental footprint of the device?
 
+
 ## FAQ about the Noise Dashboard
 ### How do I display the Dashboard?
-### Can I customiza the dashboard to disply only the data that I need?
+### Can I customize the dashboard to disply only the data that I need?
 ### How do I suggest a new Dashboard feature?
 
