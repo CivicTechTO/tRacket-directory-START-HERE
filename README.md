@@ -34,10 +34,8 @@ Coming Soon
 ## Tecnical Overview
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    IoT device-->Cloud Data Store;
+    Cloud Data Store-->Dashboard;
 ```
 
 ## FAQ about the Noise Meter Device
