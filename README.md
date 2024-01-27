@@ -34,7 +34,7 @@ Coming Soon
 ## Tecnical Overview
 ```mermaid
 graph TD;
-    IoTdevice-->CloudDataStore;
+    "IoT device"-->CloudDataStore;
     CloudDataStore-->Dashboard;
 ```
 
