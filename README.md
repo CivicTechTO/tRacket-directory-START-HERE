@@ -45,8 +45,13 @@ sequenceDiagram
 ```
 
 ## FAQ about the Noise Meter Device
-Coming soon
+### What are the requirements to install a device at my site?
+### Where do I pick up or return the device?
+### How do I get support for my device?
+### What is the environmental footprint of the device?
 
 ## FAQ about the Noise Dashboard
-Coming soon
+### How do I display the Dashboard?
+### Can I customiza the dashboard to disply only the data that I need?
+### How do I suggest a new Dashboard feature?
 
