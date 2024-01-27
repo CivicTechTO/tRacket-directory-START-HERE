@@ -1,4 +1,5 @@
-# About Project Noise Meter
+# Project Noise Meter
+## About
 
 > Are you curious about the health impact of the environmental noise in Toronto?
 
