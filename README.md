@@ -44,10 +44,11 @@ sequenceDiagram
 
 ## FAQ about the Noise Meter Device
 ### What are the requirements to install a device at my site?
+### Where is the data collected by the device saved?
 ### Where do I pick up or return the device?
 ### How do I get support for my device?
 ### What is the environmental footprint of the device?
-
+### Is the device compatible with Google Home, Alexa, Apple Homekit, Home Assistant, etc.?
 
 ## FAQ about the Noise Dashboard
 ### How do I display the Dashboard?
