@@ -35,7 +35,7 @@ Coming Soon
 ```mermaid
 sequenceDiagram
     IoT_device ->> Cloud_Data_Store : Measured noise data saved
-    Note left of IoT_device: installed at user location
+    Note right of IoT_device: installed at user location
     Cloud_Data_Store ->> Dashboard : Data visualized for exploration
     Note left of Cloud_Data_Store : Database for current and historical data
     Dashboard ->> User Browser : displayed on
