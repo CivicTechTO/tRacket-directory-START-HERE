@@ -37,7 +37,6 @@ sequenceDiagram
     Note over IoT_device: installed at user location
     Note over Cloud_Data_Store : database for current and historical data
     Note over Dashboard : displays data statistics
-    create actor User as Francis
     Note over User : everyone interested in noise data
     IoT_device ->> Cloud_Data_Store : measured noise data saved
     Cloud_Data_Store ->> Dashboard : data visualized for exploration    
