@@ -33,7 +33,7 @@ Coming Soon
 
 ## Tecnical Overview
 ```mermaid
-graph TR;
+graph TD;
     IoT Device collects noise data on site --> Cloud Data Store for raw Noise data;
     Cloud Data Store for raw Noise data --> Noise Dashboard for data visualization;
     Noise Dashboard for data visualization --> Dashboard displayed in user web browser;
