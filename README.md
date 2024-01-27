@@ -34,7 +34,7 @@ Coming Soon
 ## Tecnical Overview
 ```mermaid
 sequenceDiagram
-    Note right of IoT_device: installed at user location
+    Note over IoT_device: installed at user location
     Note right of Cloud_Data_Store : database for current and historical data
     Note right of Dashboard : displays data statistics
     IoT_device ->> Cloud_Data_Store : Measured noise data saved
