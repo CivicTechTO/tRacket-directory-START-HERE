@@ -35,11 +35,13 @@ Coming Soon
 ```mermaid
 sequenceDiagram
     Note over IoT_device: installed at user location
-    Note right of Cloud_Data_Store : database for current and historical data
-    Note right of Dashboard : displays data statistics
-    IoT_device ->> Cloud_Data_Store : Measured noise data saved
-    Cloud_Data_Store ->> Dashboard : Data visualized for exploration    
-    Dashboard ->> User Browser : displayed on 
+    Note over Cloud_Data_Store : database for current and historical data
+    Note over Dashboard : displays data statistics
+    Create actor User
+    Note over User : everyone interested in noise data
+    IoT_device ->> Cloud_Data_Store : measured noise data saved
+    Cloud_Data_Store ->> Dashboard : data visualized for exploration    
+    Dashboard ->> User : displayed in User browser
 ```
 
 ## FAQ about the Noise Meter Device
