@@ -33,9 +33,9 @@ Coming Soon
 
 ## Tecnical Overview
 ```mermaid
-classDiagram
-    IoT_device --> Cloud_Data_Store : Raw data saved
-    Cloud_Data_Store --> Dashboard : Data exploration 
+sequenceDiagram
+    IoT_device ->> Cloud_Data_Store : Raw data saved
+    Cloud_Data_Store ->> Dashboard : Data exploration 
 ```
 
 ## FAQ about the Noise Meter Device
