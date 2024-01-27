@@ -32,7 +32,12 @@ There are a few ways to connect with us and help:
 Coming Soon
 
 ## Tecnical Overview
-Comming soon
+```mermaid
+graph TR;
+    IoT Device collects noise data on site --> Cloud Data Store for raw Noise data;
+    Cloud Data Store for raw Noise data --> Noise Dashboard for data visualization;
+    Noise Dashboard for data visualization --> Dashboard displayed in user web browser;
+```
 
 ## FAQ about the Noise Meter Device
 Coming soon
