@@ -1,9 +1,9 @@
 # About Project Noise Meter
 
 > Are you curious about the health impact of the environmental noise in Toronto?
-> 
+
 > Are you interested in measuring the environmental noise in Toronto?
-> 
+
 > Is the environmental noise in Toronto a public health concern?
 
 
