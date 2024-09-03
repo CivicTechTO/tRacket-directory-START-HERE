@@ -9,7 +9,7 @@ tRacket is a volunteer-led project for low-cost and easy-to-use noise monitoring
 
 ### Repositories
 - Sensor: https://github.com/CivicTechTO/proj-noisemeter-device
-- Dashboard: https://github.com/danieltsoukup/noise-dashboard
+- Dashboard: https://github.com/CivicTechTO/tRacket-dashboard
 - API, database, sensor manager: to come
 
 ## How to help
