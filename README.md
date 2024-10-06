@@ -1,6 +1,6 @@
 # Welcome to tRacket!
 
-## Our Mission
+## Mission
 
 Our mission is to make it easy and affordable to monitor noise, to empower advocates and government agencies to understand and reduce harmful noise within their communities.
 
@@ -11,6 +11,16 @@ Our mission is to make it easy and affordable to monitor noise, to empower advoc
 - Residents better understand the stress put on them by environmental noise and differences in living conditions throughout the city.
 - Advocates use detailed data on noise to argue for new policies and regulations.
 - Our communities become more livable thanks to the reduction of unnecessary, harmful noise.
+
+## Goals
+
+To accomplish our vision, we will:
+- Design and make available affordable noise monitoring hardware that is easy to acquire, set up, monitor and share noise levels at specific locations long-term.
+- Build a platform to support device owners through the configuration and support of their hardware, long-term storage of their measurements, access to their measurements as open data, and tools to visualize, annotate, analyze and share noise measurements, as well as aggregated measurements and “stories” through annotations and online community.
+- Build a platform to support advocates through access to noise measurements within their communities, including location-based noise levels, analysis and commentary.
+- Build privacy controls into the sensors and platform to assure users that measurements in their homes and communities cannot be used for malicious purposes.
+- Build a team and platform that is self-sustained through initial volunteers, sensor sales, donations and/or other means.
+- Promote and grow tRacket to increase use and impact.
 
 
 ## How to help?
