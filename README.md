@@ -1,12 +1,19 @@
 # Welcome to tRacket!
 
-tRacket is a volunteer-led project for aimed at making it easy and affordable to collect data about noise. 
+## Our Mission
 
-## Mission & Vision
+Our mission is to make it easy and affordable to monitor noise, to empower advocates and government agencies to understand and reduce harmful noise within their communities.
 
-TBC
+## Our Vision
 
-## How to help
+- We created a low-cost, easy to setup sensor that is available to monitor noise levels 24 hours a day.
+- Dozens (and maybe someday, hundreds) of these sensors are deployed across cities mapping the noise landscape.
+- Residents better understand the stress put on them by environmental noise and differences in living conditions throughout the city.
+- Advocates use detailed data on noise to argue for new policies and regulations.
+- Our communities become more livable thanks to the reduction of unnecessary, harmful noise.
+
+
+## How to help?
 
 If you're interesting in contributing to the project, you should start out by joining our project Slack channel, `#proj-noisemeter`, in the [Civic Tech Toronto Slack](https://civictechto.slack.com/). [Link to join](https://link.civictech.ca/join).
 
