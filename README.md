@@ -27,6 +27,19 @@ To accomplish our vision, we will:
 
 If you're interesting in contributing to the project, you should start out by joining our project Slack channel, `#proj-noisemeter`, in the [Civic Tech Toronto Slack](https://civictechto.slack.com/). [Link to join](https://link.civictech.ca/join).
 
+### The Team
+
+Everyone in our team wears many hats, but the following general items cover what we do:
+
+- Sensor Development and on-going support
+- Platform Development and on-going support
+- Website Development and on-going support, including e-commerce
+- Promotion
+- Order fulfillment
+- End-user Sensor and Platform Support
+
+### What's next?
+
 You can look at our [Strategy & Design](https://github.com/CivicTechTO/tRacket-strategy-design) repo to see our roadmap and where we are aiming our project to go next. There are some big new pieces we need help with currently:
 - **Online ordering**: 
   - Creating an interface for people to place an order for a sensor, and to be able to track the status of their order. 
@@ -42,12 +55,19 @@ We have several project streams you can contribute to, each with its dedicated G
 
 ### Repositories
 
-- [Strategy & Design](https://github.com/CivicTechTO/tRacket-strategy-design): our design system, policies, project management, governance, communication, research, and other related documentations.
+- [Strategy & Design](https://github.com/CivicTechTO/tRacket-strategy-design): our design system, policies, project management, governance, communication (website & promotion), research, and other related documentations.
+
 - [Sensor](https://github.com/CivicTechTO/proj-noisemeter-device): the hardware we designed to make the noise measurements and send them over wifi.
+  - Hardware: Help improve circuits, BOM (component selection), or manufacturing process.
+  - Software: Fix bugs or propose/implement new features.
+  - Mechanical: Research or improve enclosure design, parts sourcing, assembly, weatherproofing, or manufacturing process.
+   
 - Dashboard:
   - [Dashboard - Current](https://github.com/CivicTechTO/tRacket-dashboard): the dashboard that is currently available to inspect our database of noise measurements. We are only working on maintenance.
   - [Dashboard - New](https://github.com/CivicTechTO/tRacket-dashboard-react): we are actively developing a new React version of the dashboard.
+
 - [Sensor Manager](https://github.com/CivicTechTO/tRacket-sensor-manager): the interface for sensor owners to register and then manage their device.
+
 - [API](https://github.com/CivicTechTO/tRacket-api): this is the software layer that helps the database receive noise measurements and the dashboard to read the database.
 
 ## Architecture
