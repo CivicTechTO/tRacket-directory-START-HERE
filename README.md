@@ -1,4 +1,4 @@
-## Welcome!
+# Welcome to tRacket!
 
 tRacket is a volunteer-led project for aimed at making it easy and affordable to collect data about noise. 
 
