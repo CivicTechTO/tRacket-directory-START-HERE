@@ -23,7 +23,7 @@ To accomplish our vision, we will:
 - Promote and grow tRacket to increase use and impact.
 
 
-## How to help?
+## How to Contribute?
 
 If you're interesting in contributing to the project, you should start out by joining our project Slack channel, `#proj-noisemeter`, in the [Civic Tech Toronto Slack](https://civictechto.slack.com/). [Link to join](https://link.civictech.ca/join).
 
